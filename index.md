@@ -5,10 +5,10 @@
 layout: home
 ---
 <div class="row">
- <div class="column4">
+ #<div class="column4">
    <img src="/assets/Mount_Hood_Collecting.jpg" style="width:100%">
  </div>
- <div class="column34">
+ #<div class="column34">
    <img src="/assets/Lewisii_1.jpg" style="width:100%">
  </div>
 </div>
