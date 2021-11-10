@@ -6,10 +6,10 @@ layout: home
 ---
 <div class="row">
  <div class="column4">
-   <img src="/assets/2021-08-20 09.22.12.heic" style="width:100%">
+   <img src="/assets/Mount_Hood_Collecting.jpg" style="width:100%">
  </div>
  <div class="column34">
-   <img src="/assets/2021-08-20 09.28.43 copy.heic" style="width:100%">
+   <img src="/assets/Lewisii_1.jpg" style="width:100%">
  </div>
 </div>
 <br>
