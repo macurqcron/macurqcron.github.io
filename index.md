@@ -18,3 +18,6 @@ layout: home
 
 <br>
 
+______
+
+Email: mackenzie [dot] urq [at] gmail [dot] com / Twitter: @macurqcron / GitHub: @macurqcron
