@@ -19,5 +19,6 @@ layout: home
 <br>
 
 ______
+<p>Test Text: <span class="text-success">Yes</span></p>
 
-Email: mackenzie [dot] urq [at] gmail [dot] com | Twitter: <p><a href="https://twitter.com/macurqcron">@macurqcron</a></p> | GitHub: <p><a href="https://github.com/macurqcron">@macurqcron</a></p>
+<p> Email: mackenzie [dot] urq [at] gmail [dot] com | Twitter: <p><a href="https://twitter.com/macurqcron">@macurqcron</a></p> | GitHub: <p><a href="https://github.com/macurqcron">@macurqcron</a></p> </p>
