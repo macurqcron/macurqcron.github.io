@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /blog/
+permalink: /about/
 ---
 image of me on one side
 
