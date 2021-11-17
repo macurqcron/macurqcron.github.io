@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<p style="width: 500px;">
+<p style="width: 30%;">
 <img src="image.png" style="float: right;" />
 This is some text
 </p> 
 
-<p style="width: 30% ;">
+<!--<p style="width: 30% ;">
  <img src="/assets/three_sisters_collecting.jpg" style="float: left;"/>
  <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p>
-</p> 
+</p> -->
 
 
    <img src="/assets/three_sisters_collecting.jpg" style="width:30%">
