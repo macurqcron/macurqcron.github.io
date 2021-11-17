@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<div class="clearfix float-my-children">
-     <img src="/assets/three_sisters_collecting.jpg" style="width:30%">
-   <div> <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p> </div>
-</div>
+<p style="width: 500px;">
+ <img src="/assets/three_sisters_collecting.jpg" style="width:30%"/>
+ <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p>
+</p> 
 
 
    <img src="/assets/three_sisters_collecting.jpg" style="width:30%">
