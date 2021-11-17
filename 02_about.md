@@ -6,10 +6,10 @@ permalink: /about/
 
 <div class="row">
  <div class="column2">
-   <img src="/assets/three_sisters_collecting.jpg" style="width:100%">
+   <img src="/assets/three_sisters_collecting.jpg" style="width:80%">
  </div>
  <div class="column2">
-  <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> </p> <p> <a href="https://github.com/macurqcron">GitHub</a> </p> <p>  <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> </p> <p> CV link </p>
+  <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p>
 <br>
 
 I am currently a PhD candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and the <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC. 
