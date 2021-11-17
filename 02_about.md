@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="row">
  <div class="column2">
-   <img src="/assets/three_sisters_collecting.jpg.jpg" style="width:100%">
+   <img src="/assets/three_sisters_collecting.jpg" style="width:100%">
  </div>
  <div class="column2">
   <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> </p> <p> <a href="https://github.com/macurqcron">GitHub</a> </p> <p>  <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> </p> <p> CV link </p>
