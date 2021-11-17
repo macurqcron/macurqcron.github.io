@@ -5,9 +5,6 @@ permalink: /research/
 ---
 
 
-
-## **Thesis Research**
-
 #### **Investigating spatial patterns of historical range expansion and mating system evolution**
 
 A blurb
