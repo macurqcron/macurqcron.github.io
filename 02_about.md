@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <figure>
- <img src="/assets/three_sisters_collecting.jpg" style="float: left; padding-right: 20px; width: 45%"/>
+ <img src="/assets/three_sisters_collecting.jpg" style="float: left; padding-right: 20px; width: 300px"/>
  <figcaption> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant along Fall Creek in the Three Sisters Wilderness, OR </figcaption>
  </figure>
  <br>
