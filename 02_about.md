@@ -38,4 +38,4 @@ permalink: /about/
 
 <p> Before starting my Ph.D., I worked as a Research Assistant in a number of labs at the UBC Biodiversity Research Centre, including the <a href="http://whittonlab.weebly.com/">Whitton</a>, <a href="https://germainlab.weebly.com/">Germain</a>, and <a href="https://www.zoology.ubc.ca/~otto/">Otto</a> labs. </p>
 
-<p> I completed my Undergraduate thesis and M.Sc. with <a href="https://sokolowski.eeb.utoronto.ca/">Marla Sokolwski</a> in the <a href="https://eeb.utoronto.ca/"> Department of Ecology and Evolutionary Biology</a> at the University of Toronto. </p> 
+<p> I completed my Undergraduate thesis and M.Sc. with <a href="https://sokolowski.eeb.utoronto.ca/">Marla Sokolwski</a> in the <a href="https://eeb.utoronto.ca/"> Department of Ecology & Evolutionary Biology</a> at the University of Toronto. </p> 
