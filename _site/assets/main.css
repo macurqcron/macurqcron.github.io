@@ -54,7 +54,7 @@ figure > img {
   display: table; }
 
 figcaption {
-  font-size: 10px; display: table-caption; caption-side: bottom ; color:DimGrey}
+  font-size: 8px; display: table-caption; caption-side: bottom ; color: #878787}
 
 /**
  * Lists
