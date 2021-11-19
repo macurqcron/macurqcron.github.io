@@ -48,7 +48,7 @@ A blurb
 </div>
 <br>
 
-#### **Impacts of gender, career stage on grant writing on funding success**
+#### **Impacts of gender, career stage on grant writing and funding success**
 
 A blurb, link to the paper
 
