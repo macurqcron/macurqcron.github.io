@@ -2,6 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+
+<style>
+.center {
+ text-align: center
+}
+</style>
+
 ---
 <figure style="float: left; padding-right: 25px; width: 45%">
  <img src="/assets/three_sisters_collecting.jpg"/>
