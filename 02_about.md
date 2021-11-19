@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <figure>
  <img src="/assets/three_sisters_collecting.jpg" style="float: left; padding-right: 20px; width: 45%"/>
- <figcaption> style="font-size:10pt;color:DimGrey" Sampling mature fruits from an <i>Erythranthe lewisii</i> plant along Fall Creek in the Three Sisters Wilderness, OR </figcaption>
+ <figcaption> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant along Fall Creek in the Three Sisters Wilderness, OR </figcaption>
  </figure>
  <br>
  <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p>
