@@ -23,7 +23,7 @@ permalink: /about/
 </p> 
 
 
-<br>
+
 <br>
 <br>
 <br>
@@ -34,7 +34,7 @@ permalink: /about/
 
 
 <p> I am currently a PhD candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and the <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC. </p> 
-<br>
+
 
 <p> Before starting my PhD, I worked as a Research Assistant in a number of labs at the UBC Biodiversity Research Centre, including the <a href="http://whittonlab.weebly.com/">Whitton</a>, <a href="https://germainlab.weebly.com/">Germain</a>, and <a href="https://www.zoology.ubc.ca/~otto/">Otto</a> labs. </p>
 <br>
