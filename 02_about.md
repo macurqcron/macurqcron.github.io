@@ -21,8 +21,6 @@ permalink: /about/
 <p style="text-align:center"> <a href="https://github.com/macurqcron">GitHub</a> 
 <p style="text-align:center"> <a href="https://www.inaturalist.org/people/macurqcron">iNaturalist</a> 
 </p> 
-</b>
-</p>
 
 <br>
 <br>
