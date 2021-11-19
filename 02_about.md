@@ -18,7 +18,7 @@ permalink: /about/
  <br>
  <br>
  <br>
-  <br>
+ <br>
 <p style="text-align:center"> Email: mackenzie [dot] urq [at] gmail [dot] com <p style="text-align:center"> <a href="https://twitter.com/macurqcron">Twitter</a> <p style="text-align:center"> <a href="https://github.com/macurqcron">GitHub</a> <p style="text-align:center"> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p style="text-align:center"> CV link </p>
 </p> 
 
