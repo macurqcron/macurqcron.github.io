@@ -11,7 +11,8 @@ permalink: /about/
  <br>
  <br>
  <br>
- 
+
+<p>
 <b>
 <p style="text-align:center"> mackenzie [dot] urq [at] gmail [dot] com 
 <p style="text-align:center"> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> 
@@ -20,8 +21,6 @@ permalink: /about/
 <p style="text-align:center"> <a href="https://github.com/macurqcron">GitHub</a> 
 <p style="text-align:center"> <a href="https://www.inaturalist.org/people/macurqcron">iNaturalist</a> 
 </b>
-
-
 </p> 
 
 <br>
