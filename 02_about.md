@@ -4,10 +4,20 @@ title: About
 permalink: /about/
 ---
 
+figure{
+  display:table;
+}
+figcaption{
+  display:table-caption;
+  caption-side:bottom;
+}
+
+<figure>
 <p style="width: 45% ;">
  <img src="/assets/three_sisters_collecting.jpg" style="float: left; padding-right: 20px"/>
  <br>
- <p style="font-size:10pt;color:DimGrey"> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant at along Fall Creek in the Three Sisters Wilderness, OR </p>
+ <figcaption> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant at along Fall Creek in the Three Sisters Wilderness, OR </figcaption>
+ </figure>
  <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p>
 </p> 
 
