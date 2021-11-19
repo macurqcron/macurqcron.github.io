@@ -31,7 +31,7 @@ permalink: /about/
 <br>
 <br>
 <br>
-<br>
+
 
 
 <p> I am currently a Ph.D. candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and the <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC. </p> 
