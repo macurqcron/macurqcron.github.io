@@ -6,7 +6,7 @@ permalink: /about/
 ---
 <figure style="float: left; padding-right: 25px; width: 45%">
  <img src="/assets/three_sisters_collecting.jpg"/>
- <figcaption> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant along Fall Creek in the Three Sisters Wilderness, OR </figcaption>
+ <figcaption> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant along Fall Creek in the Three Sisters Wilderness, OR, USA (August 2021) </figcaption>
  </figure>
  <br>
  <br>
