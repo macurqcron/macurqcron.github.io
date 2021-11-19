@@ -51,10 +51,10 @@ img {
  * Figures
  */
 figure > img {
-  display: block; }
+  display: table; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 10px; display: table-caption; caption-side: bottom ; color:DimGrey}
 
 /**
  * Lists
