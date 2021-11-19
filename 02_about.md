@@ -6,11 +6,21 @@ permalink: /about/
 
 <p style="width: 45% ;">
  <img src="/assets/three_sisters_collecting.jpg" style="float: left; padding-right: 20px"/>
- <p style="font-size:10pt;color:DimGrey"> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant at along Fall Creek in the Three Sisters Wilderness, OR </p>
+ <p style="font-size:10pt;color:DimGrey"> Sampling mature fruits from an <i>Erythranthe lewisii</i> plant along Fall Creek in the Three Sisters Wilderness, OR </p>
  <br>
  <p> Email: mackenzie [dot] urq [at] gmail [dot] com <p> <a href="https://twitter.com/macurqcron">Twitter</a> <p> <a href="https://github.com/macurqcron">GitHub</a> <p> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en"> Google Scholar </a> <p> CV link </p>
 </p> 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <p> I am currently a PhD candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and the <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC. </p> 
