@@ -21,7 +21,6 @@ Selection for the evolution of reproductive assurance across a species’ geogra
  </div>
  <p style="font-size:10pt;color:DimGrey"> A DESCRIPTION.</p>
 </div>
-<br>
 
 #### **Demographic pathways of range expansion following primary succession**
 
