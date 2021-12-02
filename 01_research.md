@@ -35,13 +35,7 @@ I am also using <i>Erythranthe lewisii</i> as a focal species to address this qu
   <div class="row">
     <div class="col s10">
       <img class="img-center" src="/assets/PHOTO_OF_FORELAND.jpg" style="width:100%"/>
-      
-      # TWO PHOTOS OF RANGE CORE VS. RANGE EDGE
-      # PHOTO OF LEWISII [SO 4 PHOTO GRID]
-      </div>
-    </div>
-  </div>
-<br>
+   </div>
 
 #### **Effects of density-dependent selection during range expansion on the accumulation of expansion load**
 
