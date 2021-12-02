@@ -21,9 +21,9 @@ Selection for the evolution of reproductive assurance across a species’ geogra
  </div>
  <p style="font-size:10pt;color:DimGrey"> A DESCRIPTION.</p>
 </div>
+<br>
 
 #### **Demographic pathways of range expansion following primary succession**
-<p>
 Under changing climatic conditions, many species’ are shifting their distributions polewards and upslope, but recent eco-evolutionary models suggest that the process of range expansion may cause leading-edge populations to accumulate deleterious mutations. Before we can assess the genetic consequences of range expansion—and what they mean for the long-term fitness and persistence of edge populations under climate change—we need to understand the demographic pathways of range expansion. 
 <p>
 The colonization of newly exposed habitat following glacier retreat (e.g., primary succession) presents a unique opportunity to study the eco-evolutionary dynamics of range expansion. On shorter spatiotemporal scales, alpine glacier retreat since the end of the Little Ice Age (~150 ya) presents many parallel instances of range expansion along a gradient of terrain age at a single site (e.g., chronosequence). Although species colonization follows predictable patterns of diversity along alpine glacier forelands—habitat between the oldest terminal moraine and current glacier extent—the development of intraspecific patterns of genetic diversity has been understudied. 
@@ -36,9 +36,9 @@ I am also using <i>Erythranthe lewisii</i> as a focal species to address this qu
     <div class="col s10">
       <img class="img-center" src="/assets/PHOTO_OF_FORELAND.jpg" style="width:100%"/>
    </div>
-
+<br>
+   
 #### **Effects of density-dependent selection during range expansion on the accumulation of expansion load**
-<p>
 Current models of expansion load only assess the effects of density-independent selection on relative reductions in edge population fitness. However, the demographic pathways or range expansion that facilitate allele surfing rely on decreasing gradients in population density during range expansion. 
 <p>
  We propose to incorporate the effects of density-dependent selection during range expansion and assess its trait specific effects on the rate of allele surfing, deleterious mutation accumulation, and phenotypic expression of expansion load. We are using a combination of analytical and simulation based models to explore the effect of density-dependent selection on the accumulation of expansion load. Our goal is to explore a more nuanced set of assumptions underlying expansion load theory, and reflect processes occurring in natural range expansions that are currently not included in existing theoretical frameworks. 
