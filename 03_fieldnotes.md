@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Field notes
+permalink: /fieldnotes/
 ---
 <h1>Latest Posts</h1>
 
