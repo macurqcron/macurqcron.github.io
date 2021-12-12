@@ -3,8 +3,6 @@ layout: page
 title: Field notes
 permalink: /fieldnotes/
 ---
-<h1>Latest Posts</h1>
-
 <ul>
   {% for post in site.posts %}
     <li>
