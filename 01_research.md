@@ -35,11 +35,9 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
   <div class="row">
   <div class="column">
  <p float="left">
-   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:32%">
- <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
-   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
- <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%"> 
-<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
+   <img src="/assets/iron_bog_lake_sampling.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:100%">
+ <img src="/assets/lostine_OR.jpg.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:100%"> 
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Top) Sampling mature fruits from <i>E. lewisii</i> at Iron Bog Lake, ID. (Bottom) Sampling mature fruits from <i>E. lewisii</i> along Two Pan Trail, in the Eaglecap Wilderness, OR. </p>
 <br>
  
  Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
