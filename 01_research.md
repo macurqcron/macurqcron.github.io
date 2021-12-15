@@ -25,7 +25,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  <p float="left">
    <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:49%">
  <img src="/assets/processing_samples.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:49%">
-  <img src="/assets/2021-08-21 09.47.24.heic" alt="sampling plant tissue at the glacier edge" style="width:100%">
+  <img src="/assets/2021-08-21 09.47.24.jpg" alt="sampling plant tissue at the glacier edge" style="width:100%">
 <p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Geographic distribution of E.lewisii from iNaturalist. (Middle) sampling somewhere in Canada (Right) Erythrnathe lewisii at Mount Baker (or eslewhere).  </p>
 </div>
 <br>
