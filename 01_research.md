@@ -17,16 +17,15 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:35%">
   <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:31%">
  <p style="font-size:10pt;color:DimGrey"> Alpine glacier recession pathway fieldwork. (Left) View of Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in an older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> leaf tissue at the edge of Helm Glacier. </p>
-</div>
 <br>
 
   <div class="row">
   <div class="column">
  <p float="left">
-   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:33%">
- <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
-   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
-<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle) Senescing <i>E> lewisii</i> at Mount Hood, OR (Right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB.  </p>
+   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:40%">
+ <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:27%">
+   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:27%">
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle) Senescing <i>E. lewisii</i> at Mount Hood, OR (Right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB.  </p>
 </div>
 <br>
 
