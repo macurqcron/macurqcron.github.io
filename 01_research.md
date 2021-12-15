@@ -10,16 +10,13 @@ In order to study genetic consequences of species geographic range expansion (e.
 <p>
 I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier recession pathways (since the end of the Little Ice Age ~150 years ago) in Garibaldi Provincial Park, BC and across its entire latitudinal range in Northwestern North America (which spans the Coast, Cascade, and Rocky Mountain ranges) since the end of the Pleistocene Ice Age (~20 000 years ago) to test whether current and competing range expansion hypotheses apply to the process of primary succession across shorter, smaller elevational ranges and longer,  larger latitudinal scales
  
- <div class="row">
+  <div class="row">
   <div class="column">
-    <img src="/assets/Garibaldi_balck_tusk.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:33%">
-  </div>
-  <div class="column">
-    <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
-  </div>
-  <div class="column">
-    <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:33%">
-  </div>
+ <p float="left">
+   <img src="/assets/Garibaldi_balck_tusk.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:31%">
+ <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:35%">
+  <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:31%">
+</div>
 </div>
  <p style="font-size:10pt;color:DimGrey"> Alpine glacier recession pathway fieldwork. (Left) Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> tissue at the edge of Helm Glacier. </p>
 </div>
