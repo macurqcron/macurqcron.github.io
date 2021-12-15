@@ -7,9 +7,7 @@ permalink: /research/
 <h2> Demographic pathways of range expansion </h2>
 
 In order to study genetic consequences of species geographic range expansion (e.g., decreased genetic diversity, increased genetic load, local adaptation, mating system and life-history shifts), it is important to resolve the underlying historical pathways of range expansion. I am using the native alpine plant <i>Erythranthe lewisii</i>—previously Northern <i>Mimulus lewisii</i> and commonly known as pink monkeyflower—as a focal species to study the demographic pathways of range expansion at contrasting spatiotemporal scales.
-<p>
-I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier recession pathways (since the end of the Little Ice Age ~150 years ago) in Garibaldi Provincial Park, BC and across its entire latitudinal range in Northwestern North America (which spans the Coast, Cascade, and Rocky Mountain ranges) since the end of the Pleistocene Ice Age (~20 000 years ago) to test whether current and competing range expansion hypotheses apply to the process of primary succession across shorter, smaller elevational ranges and longer,  larger latitudinal scales
- 
+
   <div class="row">
   <div class="column">
  <p float="left">
@@ -17,7 +15,8 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:35%">
   <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:31%">
  <p style="font-size:10pt;color:DimGrey"> Alpine glacier recession pathway fieldwork. (Left) View of Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in an older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> leaf tissue at the edge of Helm Glacier. </p>
-<br>
+   
+I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier recession pathways (since the end of the Little Ice Age ~150 years ago) in Garibaldi Provincial Park, BC and across its entire latitudinal range in Northwestern North America (which spans the Coast, Cascade, and Rocky Mountain ranges) since the end of the Pleistocene Ice Age (~20 000 years ago) to test whether current and competing range expansion hypotheses apply to the process of primary succession across shorter, smaller elevational ranges and longer,  larger latitudinal scales
 
   <div class="row">
   <div class="column">
