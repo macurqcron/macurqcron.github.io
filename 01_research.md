@@ -36,8 +36,9 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
   <div class="row">
   <div class="column">
  <p float="left">
-   <img src="/assets/iron_bog_lake_sampling.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:100%">
- <img src="/assets/lostine_OR.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:100%"> 
+   <img src="/assets/iron_bog_lake_sampling.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:53%">
+ <img src="/assets/lostine_OR.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:42%"> 
+   <img src="/assets/Big_sandy_samplng.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:100%"> 
 <p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Top) Sampling mature fruits from <i>E. lewisii</i> at Iron Bog Lake, ID. (Bottom) Sampling mature fruits from <i>E. lewisii</i> along Two Pan Trail, in the Eaglecap Wilderness, OR. </p>
  
  Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
