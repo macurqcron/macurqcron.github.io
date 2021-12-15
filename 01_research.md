@@ -22,31 +22,28 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
   <div class="row">
   <div class="column">
  <p float="left">
-   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:30%">
- <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:27%">
-   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:27%">
- <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:27%"> 
-<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Senescing <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
-</div>
+   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:32%">
+ <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
+   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
+ <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%"> 
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
 <br>
 
 <h2> Genetic consequences of range expansion </h2>
 
 Current eco-evolutionary theory predicts shifts in plant mating system type as a result of range expansion to achieve reproductive assurance, where the ability to self-fertilize or reproduce clonally provides a means to successfully reproduce in a new environment that is potentially devoid of conspecifics and/or pollinators. I am testing the effect of range expansion on mating system evolution, and will use my phylogeographic results across the latitudinal range of <i> E. lewisii</i> as a framework to test whether spatial patterns in mating system in <i> E. lewisii</i> (e.g., autonomous selfing rate vs. propensity for clonal growth) are related to historical pathways of range expansion.
 <p>
- <p>
- Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
-
-<div class="row">
- <div class="column2">
-   <img src="/assets/PHOTO_OF_LEWISII_RANGE.jpg" style="width:100%">
- </div>
- <div class="column2">
-   <img src="/assets/PHOTO_OF_LEWISII_FLOWER.jpg" style="width:100%">
- </div>
- <p style="font-size:10pt;color:DimGrey"> A DESCRIPTION.</p>
-</div>
+  <div class="row">
+  <div class="column">
+ <p float="left">
+   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:32%">
+ <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
+   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
+ <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%"> 
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
 <br>
+ 
+ Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
    
 <h2> Diversity, Inclusivity, and Equity in Science in Canada: Gender & Career Stage </h2>
 
