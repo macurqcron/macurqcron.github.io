@@ -12,18 +12,36 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  
  <div class="row">
   <div class="column">
-    <img src="/assets/Garibaldi_balck_tusk.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:100%">
+    <img src="/assets/Garibaldi_balck_tusk.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:33%">
   </div>
   <div class="column">
-    <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:100%">
+    <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
   </div>
   <div class="column">
-    <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:100%">
+    <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:33%">
   </div>
 </div>
- <p style="font-size:10pt;color:DimGrey"> (Left) Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> tissue at the edge of Helm Glacier. </p>
+ <p style="font-size:10pt;color:DimGrey"> Alpine glacier recession pathway fieldwork. (Left) Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> tissue at the edge of Helm Glacier. </p>
 </div>
 <br>
+
+ <div class="row">
+  <div class="column">
+    <img src="/assets/XXX.jpg" alt="XXX" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/XXX.jpg" alt="XXX" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/XXX.jpg" alt="XXX" style="width:100%">
+  </div>
+</div>
+ <p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Geographic distribution of E.lewisii from iNaturalist. (Middle) sampling somewhere in Canada (Right) Erythrnathe lewisii at Mount Baker (or eslewhere).  </p>
+</div>
+<br>
+
+then we will have three panorama's on top of one anotherand the bottom one will have the description. 
+2021 Sampling at (Top) Three Sisters Wilderness (Middle) Iron Bog Lake, ID, (Bottom) Creek name, Crazy Mountains, MT
 
 <h2> Genetic consequences of range expansion </h2>
 
