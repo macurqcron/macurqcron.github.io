@@ -18,7 +18,6 @@ In order to study genetic consequences of species geographic range expansion (e.
    
 I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier recession pathways (since the end of the Little Ice Age ~150 years ago) in Garibaldi Provincial Park, BC and across its entire latitudinal range in Northwestern North America (which spans the Coast, Cascade, and Rocky Mountain ranges) since the end of the Pleistocene Ice Age (~20 000 years ago) to test whether current and competing range expansion hypotheses apply to the process of primary succession across shorter, smaller elevational ranges and longer,  larger latitudinal scales
     <p>
-    <br>
 
   <div class="row">
   <div class="column">
