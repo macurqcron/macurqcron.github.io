@@ -36,7 +36,7 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
   <div class="column">
  <p float="left">
    <img src="/assets/iron_bog_lake_sampling.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:100%">
- <img src="/assets/lostine_OR.jpg.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:100%"> 
+ <img src="/assets/lostine_OR.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:100%"> 
 <p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Top) Sampling mature fruits from <i>E. lewisii</i> at Iron Bog Lake, ID. (Bottom) Sampling mature fruits from <i>E. lewisii</i> along Two Pan Trail, in the Eaglecap Wilderness, OR. </p>
 <br>
  
