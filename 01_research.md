@@ -21,7 +21,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
     <img src="E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:100%">
   </div>
 </div>
- <p style="font-size:10pt;color:DimGrey"> (Left) Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> tissue at the edge of Helm Glacier </p>
+ <p style="font-size:10pt;color:DimGrey"> (Left) Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> tissue at the edge of Helm Glacier. </p>
 </div>
 <br>
 
@@ -29,6 +29,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
 
 Current eco-evolutionary theory predicts shifts in plant mating system type as a result of range expansion to achieve reproductive assurance, where the ability to self-fertilize or reproduce clonally provides a means to successfully reproduce in a new environment that is potentially devoid of conspecifics and/or pollinators. I am testing the effect of range expansion on mating system evolution, and will use my phylogeographic results across the latitudinal range of <i> E. lewisii</i> as a framework to test whether spatial patterns in mating system in <i> E. lewisii</i> (e.g., autonomous selfing rate vs. propensity for clonal growth) are related to historical pathways of range expansion.
 <p>
+ <p>
  Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
 
 <div class="row">
@@ -46,6 +47,7 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
 
 We investigated potential barriers to successful scientific funding outcomes for women and/or early career scientists. Using publicly available data from the NSERC Database, we explored interactions between gender and career stage on grant writing (word use) and funding success in the 2016 Discovery Grant competition.
 <p>
+ <p>
  We did not detect significant influence of gender on word use or grant value, but we detected a strong main effect of career stage and gender across all NSERC categories on funding success. Career stage was the most important predictor of award value and rejection rates were higher for women (40 percent) than men (33 percent) at early career stages. We shared our results with NSERC, to draw their attention to existing discrepancies between early career researchers and to improve future grant evaluation policies. 
    <p>
 <a href="https://www.zoology.ubc.ca/~otto/Reprints/Urquhart-Cronish2019.pdf"> PDF </a>
