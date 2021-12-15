@@ -22,6 +22,13 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
 </div>
 <br>
 
+<figure style="float: left">
+ <img src="/assets/Garibaldi_balck_tusk.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:33%">
+ <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
+  <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:33%">
+ <figcaption> Alpine glacier recession pathway fieldwork. (Left) Black Tusk in Garibaldi Provincial Park, BC. (Middle) <i>Erythranthe lewisii</i> growing in older alpine recession pathway zone. (Right) Sampling <i>E. lewisii</i> tissue at the edge of Helm Glacier.  </figcaption>
+ </figure>
+
  <div class="row">
   <div class="column">
     <img src="/assets/XXX.jpg" alt="XXX" style="width:100%">
