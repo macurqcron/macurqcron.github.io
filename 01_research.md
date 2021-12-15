@@ -23,15 +23,12 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
   <div class="row">
   <div class="column">
  <p float="left">
-   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:49%">
- <img src="/assets/processing_samples.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:49%">
-  <img src="/assets/2021-08-21 09.47.24.jpg" alt="sampling plant tissue at the glacier edge" style="width:100%">
-<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Geographic distribution of E.lewisii from iNaturalist. (Middle) sampling somewhere in Canada (Right) Erythrnathe lewisii at Mount Baker (or eslewhere).  </p>
+   <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:33%">
+ <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
+   <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:33%">
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle) Senescing <i>E> lewisii</i> at Mount Hood, OR (Right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB.  </p>
 </div>
 <br>
-
-then we will have three panorama's on top of one anotherand the bottom one will have the description. 
-2021 Sampling at (Top) Three Sisters Wilderness (Middle) Iron Bog Lake, ID, (Bottom) Creek name, Crazy Mountains, MT
 
 <h2> Genetic consequences of range expansion </h2>
 
