@@ -26,7 +26,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
    <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
  <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%"> 
-<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythrnathe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythranthe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
 <br>
 
 <h2> Genetic consequences of range expansion </h2>
@@ -46,7 +46,7 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
 <br>
     <br>
     
-<h2> Diversity, Inclusivity, and Equity in Science in Canada: Gender & Career Stage </h2>
+<h2> DEI in Science in Canada: Gender & Career Stage </h2>
 
 We investigated potential barriers to successful scientific funding outcomes for women and/or early career scientists. Using publicly available data from the NSERC Database, we explored interactions between gender and career stage on grant writing (word use) and funding success in the 2016 Discovery Grant competition.
 <p>
