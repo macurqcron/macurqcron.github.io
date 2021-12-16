@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
 ---
+ <link rel="shortcut icon" type="assets/android-chrome-512x512.png" href="favicon.ico">
 <div class="row">
  <div class="column">
    <img src="/assets/Mount_Hood_Collecting.jpg" style="width:100%">
