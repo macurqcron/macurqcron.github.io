@@ -31,8 +31,10 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%"> 
 <p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythranthe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
 <br>
-
-  <h2> Genetic consequences of range expansion </h2> <a name="Section 2"></a>
+    
+<a name="Section 2"></a>
+    
+  <h2> Genetic consequences of range expansion </h2> 
     <h3> Empirical </h3>
 Current eco-evolutionary theory predicts shifts in plant mating system type as a result of range expansion to achieve reproductive assurance, where the ability to self-fertilize or reproduce clonally provides a means to successfully reproduce in a new environment that is potentially devoid of conspecifics and/or pollinators. I am testing the effect of range expansion on mating system evolution, and will use my phylogeographic results across the latitudinal range of <i> E. lewisii</i> as a framework to test whether spatial patterns in mating system in <i> E. lewisii</i> (e.g., autonomous selfing rate vs. propensity for clonal growth) are related to historical pathways of range expansion.
 <p>
