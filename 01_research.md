@@ -10,7 +10,7 @@ In order to study genetic consequences of species geographic range expansion (e.
 
   <div class="row">
   <div class="column">
- <p float="left">
+ <p float="center">
    <img src="/assets/Garibaldi_balck_tusk.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:31%">
  <img src="/assets/E_lewisii_core.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:35%">
   <img src="/assets/E_lewisii_edge.jpg" alt="sampling plant tissue at the glacier edge" style="width:31%">
@@ -21,7 +21,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
 
   <div class="row">
   <div class="column">
- <p float="left">
+ <p float="center">
    <img src="/assets/lewisii_range_map.png" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:32%">
  <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
    <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
@@ -30,18 +30,18 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
 <br>
 
 <h2> Genetic consequences of range expansion </h2>
-
+    <h3> Empirical </h3>
 Current eco-evolutionary theory predicts shifts in plant mating system type as a result of range expansion to achieve reproductive assurance, where the ability to self-fertilize or reproduce clonally provides a means to successfully reproduce in a new environment that is potentially devoid of conspecifics and/or pollinators. I am testing the effect of range expansion on mating system evolution, and will use my phylogeographic results across the latitudinal range of <i> E. lewisii</i> as a framework to test whether spatial patterns in mating system in <i> E. lewisii</i> (e.g., autonomous selfing rate vs. propensity for clonal growth) are related to historical pathways of range expansion.
 <p>
   <div class="row">
   <div class="column">
- <p float="left">
+ <p float="center">
    <img src="/assets/iron_bog_lake_sampling.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:53%">
  <img src="/assets/lostine_OR.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:42%"> 
    <img src="/assets/Crazy_mountains_sampling.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:41%"> 
    <img src="/assets/Big_sandy_sampling.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:54%">
 <p style="font-size:10pt;color:DimGrey"> To test spatial patterns in reproductive assurance, I am sampling mature <i>E. lewisii</i> fruits from across its entire geographic range. Some select photos from sites visted to collect mature <i>E. lewisii</i> fruit samples at (Top-left) Iron Bog Lake, ID, (Top-right) along Two Pan Trail in the Eaglecap Wilderness, OR., (Bottom-left) along Big Timber Creek in the Crazy Mountains, MT., (Bottom-right) at Big Sandy Lake, WY.  </p>
- 
+  <h3> Theoretical </h3>
  Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
 <p>
     <br>
