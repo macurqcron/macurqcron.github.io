@@ -4,7 +4,9 @@
 
 layout: home
 ---
- <link rel="shortcut icon" type="assets/android-chrome-512x512.png" href="favicon.ico">
+<link rel="shortcut icon" type="image/png" href="/favicon.png?">
+<link rel="shortcut icon" type="image/png" href="/android-chrome-512x512.png">
+
 <div class="row">
  <div class="column">
    <img src="/assets/Mount_Hood_Collecting.jpg" style="width:100%">
