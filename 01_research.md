@@ -3,8 +3,11 @@ layout: page
 title: Research
 permalink: /research/
 ---
+1. [Demographic pathways of range expansion]()
+2. [Genetic consequences of range expansion]()
+3. [DEI in Canadian Science]()
 
-<h2> Demographic pathways of range expansion </h2>
+<h2> Demographic pathways of range expansion </h2> <a name="Demographic pathways of range expansion"></a>
 
 In order to study genetic consequences of species geographic range expansion (e.g., decreased genetic diversity, increased genetic load, local adaptation, mating system and life-history shifts), it is important to resolve the underlying historical pathways of range expansion. I am using the native alpine plant <i>Erythranthe lewisii</i>—previously Northern <i>Mimulus lewisii</i> and commonly known as pink monkeyflower—as a focal species to study the demographic pathways of range expansion at contrasting spatiotemporal scales.
 
@@ -29,7 +32,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
 <p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> from iNaturalist. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythranthe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
 <br>
 
-<h2> Genetic consequences of range expansion </h2>
+<h2> Genetic consequences of range expansion </h2> <a name="Genetic consequences of range expansion"></a>
     <h3> Empirical </h3>
 Current eco-evolutionary theory predicts shifts in plant mating system type as a result of range expansion to achieve reproductive assurance, where the ability to self-fertilize or reproduce clonally provides a means to successfully reproduce in a new environment that is potentially devoid of conspecifics and/or pollinators. I am testing the effect of range expansion on mating system evolution, and will use my phylogeographic results across the latitudinal range of <i> E. lewisii</i> as a framework to test whether spatial patterns in mating system in <i> E. lewisii</i> (e.g., autonomous selfing rate vs. propensity for clonal growth) are related to historical pathways of range expansion.
 <p>
@@ -46,7 +49,7 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
 <p>
     <br>
     
-<h2> DEI in Canadian Science: Gender & Career Stage </h2>
+<h2> DEI in Canadian Science: Gender & Career Stage </h2> <a name="DEI in Canadian Science"></a>
 
 We investigated potential barriers to successful scientific funding outcomes for women and/or early career scientists. Using publicly available data from the NSERC Database, we explored interactions between gender and career stage on grant writing (word use) and funding success in the 2016 Discovery Grant competition.
 <p>
