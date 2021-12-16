@@ -60,6 +60,6 @@ We investigated potential barriers to successful scientific funding outcomes for
  <p>
  We did not detect significant influence of gender on word use or grant value, but we detected a strong main effect of career stage and gender across all NSERC categories on funding success. Career stage was the most important predictor of award value and rejection rates were higher for women (40 percent) than men (33 percent) at early career stages. We shared our results with NSERC, to draw their attention to existing discrepancies between early career researchers and to improve future grant evaluation policies. 
    <p>
-<a href="https://www.zoology.ubc.ca/~otto/Reprints/Urquhart-Cronish2019.pdf" target="_blank"> PDF </a>
-  <p>
-<a href="https://www.universityaffairs.ca/news/news-article/study-finds-gender-differences-in-success-rates-for-canadian-scientific-research-grants/" target="_blank"> Press </a> 
+<a href="https://www.zoology.ubc.ca/~otto/Reprints/Urquhart-Cronish2019.pdf" target="_blank"> Journal article (PDF) </a> 
+     <p>
+       <a href="https://www.universityaffairs.ca/news/news-article/study-finds-gender-differences-in-success-rates-for-canadian-scientific-research-grants/" target="_blank"> Press </a> 
