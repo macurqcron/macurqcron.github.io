@@ -7,7 +7,8 @@ permalink: /research/
 2. [Genetic consequences of range expansion](#Section 2)
 3. [DEI in Canadian Science](#Section 3)
 
-<h2> Demographic pathways of range expansion <a name="Section 1"></a> </h2>
+<a name="Section 1"></a> </h2>
+<h2> Demographic pathways of range expansion 
 
 In order to study genetic consequences of species geographic range expansion (e.g., decreased genetic diversity, increased genetic load, local adaptation, mating system and life-history shifts), it is important to resolve the underlying historical pathways of range expansion. I am using the native alpine plant <i>Erythranthe lewisii</i>—previously Northern <i>Mimulus lewisii</i> and commonly known as pink monkeyflower—as a focal species to study the demographic pathways of range expansion at contrasting spatiotemporal scales.
 
@@ -51,8 +52,8 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
  Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. I am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
 <p>
     <br>
-    
-<h2> DEI in Canadian Science: Gender & Career Stage </h2> <a name="Section 3"></a>
+<a name="Section 3"></a>    
+<h2> DEI in Canadian Science: Gender & Career Stage </h2> 
 
 We investigated potential barriers to successful scientific funding outcomes for women and/or early career scientists. Using publicly available data from the NSERC Database, we explored interactions between gender and career stage on grant writing (word use) and funding success in the 2016 Discovery Grant competition.
 <p>
