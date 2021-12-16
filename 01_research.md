@@ -10,7 +10,7 @@ permalink: /research/
 <a name="Section 1"></a> 
 <h2> Demographic pathways of range expansion </h2>
 
-In order to study genetic consequences of species geographic range expansion (e.g., decreased genetic diversity, increased genetic load, local adaptation, mating system and life-history shifts), it is important to resolve the underlying historical pathways of range expansion. I am using the native alpine plant <i>Erythranthe lewisii</i>—previously Northern <i>Mimulus lewisii</i> and commonly known as pink monkeyflower—as a focal species to study the demographic pathways of range expansion at contrasting spatiotemporal scales.
+In order to study genetic consequences of species geographic range expansion (e.g., decreased genetic diversity, increased genetic load, local adaptation, mating system and life-history shifts), it is important to resolve the underlying demographic pathways of range expansion. I am using the native alpine plant <i>Erythranthe lewisii</i>—previously Northern <i>Mimulus lewisii</i> and commonly known as pink monkeyflower—as a focal species to study the demographic pathways of range expansion at contrasting spatiotemporal scales.
 
   <div class="row">
   <div class="column">
