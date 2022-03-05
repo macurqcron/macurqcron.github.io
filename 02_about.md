@@ -12,6 +12,7 @@ permalink: /about/
  <br>
  <br>
 
+
 <p>
 <b>
 <p style="text-align:center"> mackenzie [dot] urq [at] gmail [dot] com </p> 
