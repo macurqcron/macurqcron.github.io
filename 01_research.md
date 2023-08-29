@@ -42,11 +42,10 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
   <div class="row">
   <div class="column">
  <p float="center">
-   <img src="/assets/iron_bog_lake_sampling.jpg" alt="Black Tusk Peak in Garibaldi Provincial Park" style="width:53%">
- <img src="/assets/lostine_OR.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:42%"> 
-   <img src="/assets/Crazy_mountains_sampling.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:41%"> 
-   <img src="/assets/Big_sandy_sampling.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:54%">
-<p style="font-size:10pt;color:DimGrey"> To test spatial patterns in reproductive assurance, I am sampling mature <i>E. lewisii</i> fruits from across its entire geographic range. Some select photos from sites visited to collect mature <i>E. lewisii</i> fruit samples at (Top-left) Iron Bog Lake, ID, (Top-right) along Two Pan Trail in the Eagle Cap Wilderness, OR., (Bottom-left) along Big Timber Creek in the Crazy Mountains, MT., (Bottom-right) at Big Sandy Lake, WY.  </p>
+   <img src="/assets/gh_1.jpg" alt="" style="width:33%">
+ <img src="/assets/gh_2.jpg" alt="" style="width:31%"> 
+   <img src="/assets/gh_3.jpg" alt="" style="width:31%"> 
+<p style="font-size:10pt;color:DimGrey"> To test spatial patterns in reproductive assurance, I am sampling mature <i>E. lewisii</i> fruits from across its entire geographic range and conducting a greenhouse experiment to investigate spatial patterns in autonomous selfing ability. Some photos from my greenhouse experiment (left to right) working in the greenhouse with Takuji Usui, E. lewisii flowering, benches covered in tulle to exclude any potential pollinators.  </p>
 
     <h3> Theoretical </h3>
  Contemporary models of expansion load have only explored the effects of density-independent selection on relative reductions in edge population fitness, however, the demographic pathways of range expansion underlying the process of allele surfing create conditions where density-dependent selection is relevant. In collaboration with <a href="https://amacp.github.io/" target="_blank"> Ailene Macpherson </a>  at SFU, I  am using simulation modelling to investigate the genetic consequences of density-dependent selection on life-history traits during range expansion. Our eco-evo range expansion model explores a more nuanced set of assumptions underlying expansion load theory, and broadens the potential processes included in existing theoretical frameworks that likely occur during range expansion in nature.
