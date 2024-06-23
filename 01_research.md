@@ -42,9 +42,9 @@ Current eco-evolutionary theory predicts shifts in plant mating system type as a
   <div class="row">
   <div class="column">
  <p float="center">
-   <img src="/assets/gh_1.jpg" alt="" style="width:29%">
- <img src="/assets/gh_2.jpg" alt="" style="width:34%"> 
-   <img src="/assets/gh_3.jpg" alt="" style="width:34%"> 
+  <! -- <img src="/assets/gh_1.jpg" alt="" style="width:29%"> -->
+ <img src="/assets/gh_2.jpg" alt="" style="width:49%"> 
+   <img src="/assets/gh_3.jpg" alt="" style="width:49%"> 
 <p style="font-size:10pt;color:DimGrey"> To test spatial patterns in reproductive assurance, I sampled mature <i>E. lewisii</i> fruits from across its entire geographic range and conducted a common garden greenhouse experiment to investigate spatial patterns in population-level autonomous selfing ability Some photos from my greenhouse experiment (left to right) <i> E. lewisii</i> flowering, flood benches covered in tulle to exclude any potential pollinators.  </p>
 
     <h3> Theoretical </h3>
