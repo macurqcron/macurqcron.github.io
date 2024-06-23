@@ -30,7 +30,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
  <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:20%">
    <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:20%">
  <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:20%"> 
-<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i>. (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythranthe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
+<p style="font-size:10pt;color:DimGrey"> Range wide sampling fieldwork. (Left) Range-wide geographic distribution of <i>E. lewisii</i> (white overlay represents the last glacial maxima of the Cordilleran ice sheet ~20 000 years ago). (Middle-left) Flowering and fruiting <i>E. lewisii</i> at Mount Hood, OR. (Middle-right) <i>Erythranthe lewisii</i> habitat at Mount Stearn, AB. (Right) Searching for <i>E. lewisii</i> along the Jarbidge River, Jarbidge, NV.  </p>
 <br>
     
 <a name="Section 2"></a>
