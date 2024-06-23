@@ -26,7 +26,7 @@ I am studying colonization dynamics of <i>E. lewisii</i> along alpine glacier re
   <div class="row">
   <div class="column">
  <p float="center">
-   <img src="/assets/lewisii_gbif.PDF" alt="Range-wide occurence records across of <i>E. lewisii</i>" style="width:32%">
+   <img src="/assets/lewisii_gbif.PDF" alt="Range-wide occurence records across of E. lewisii" style="width:32%">
  <img src="/assets/Lewisii_1.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
    <img src="/assets/2021-08-09 11.49.11.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%">
  <img src="/assets/Jarbidge_searching.jpg" alt="Erythranthe lewisii in older alpine recession pathway zone" style="width:22%"> 
