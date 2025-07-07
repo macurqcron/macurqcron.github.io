@@ -18,7 +18,7 @@ permalink: /about/
 <p style="text-align:center"> mackenzie [dot] urq [at] gmail [dot] com </p> 
 <p style="text-align:center"> <a href="https://scholar.google.ca/citations?user=rMkvEq8AAAAJ&hl=en" target="_blank"> Google Scholar </a> </p> 
 <p style="text-align:center"> <a href="https://github.com/macurqcron/macurqcron.github.io/blob/master/CV_2_0_MUC.pdf" target="_blank"> CV link </a> </p> 
-<p style="text-align:center"> <a href="https://twitter.com/macurqcron" target="_blank">Twitter</a> </p> 
+<! <p style="text-align:center"> <a href="https://twitter.com/macurqcron" target="_blank">Twitter</a> </p> -->
 <p style="text-align:center"> <a href="https://github.com/macurqcron" target="_blank">GitHub</a> </p> 
 <p style="text-align:center"> <a href="https://www.inaturalist.org/people/macurqcron" target="_blank">iNaturalist</a> </p> 
 </b>
