@@ -33,6 +33,7 @@ permalink: /about/
 <br>
 <br>
 <br>
+<br>
 
 
 <p> I successfuly defended my Ph.D. in August 2024 and I am currently a Postdoctoral Research Fellow in <a href="https://wright.eeb.utoronto.ca/">Stephen Wright's</a> Lab at the University of Toronto. I was previously a Ph.D. candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC.  </p> 
