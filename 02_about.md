@@ -36,8 +36,8 @@ permalink: /about/
 <br>
 
 
-<p> I successfuly defended my Ph.D. in August 2024 and I am currently a Botanist and Research Scientist managing the seed collections at <a href=https://verbinnens.com/>Verbinnen's native plant Nursery</a> in Hamilton, Ontario. Before that, I was a Postdoctoral Research Fellow in <a href="https://wright.eeb.utoronto.ca/">Stephen Wright's</a> Lab at the University of Toronto and a Ph.D. candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC.  </p> 
+<p> I successfuly defended my Ph.D. in August 2024 and I am currently a Botanist and Research Scientist managing the seed collections at <a href=https://verbinnens.com/>Verbinnen's native plant Nursery</a> in Hamilton, Ontario. Before that, I was a Postdoctoral Research Fellow in <a href="https://wright.eeb.utoronto.ca/">The Wright</a> Lab at the University of Toronto and a Ph.D. candidate in the <a href="https://angert.github.io/">Angert Lab</a> in the <a href="https://www.botany.ubc.ca/">Botany Department</a> and <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a> at UBC.  </p> 
 
 <p> Before starting my Ph.D. I worked as a Research Assistant in a number of labs at the UBC Biodiversity Research Centre, including the <a href="http://whittonlab.weebly.com/">Whitton</a>, <a href="https://www.bugsandplankton.com/">Tseng</a>, <a href="https://germainlab.weebly.com/">Germain</a>, and <a href="https://www.zoology.ubc.ca/~otto/">Otto</a> labs. </p>
 
-<p> I completed my Undergraduate thesis and M.Sc. with <a href="https://sokolowski.eeb.utoronto.ca/">Marla Sokolwski</a> in the <a href="https://eeb.utoronto.ca/"> Department of Ecology & Evolutionary Biology</a> at the University of Toronto. </p> 
+<p> I completed my Undergraduate thesis and M.Sc. with the <a href="https://sokolowski.eeb.utoronto.ca/">Sokolwski</a> in the <a href="https://eeb.utoronto.ca/"> Department of Ecology & Evolutionary Biology</a> at the University of Toronto. </p> 
